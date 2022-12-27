@@ -76,9 +76,9 @@ while True:
         choice = input(Fore.MAGENTA + "Do you have low ram? y/n\n")
         GenerateImage(request, choice)
 
-    select = input(Fore.MAGENTA + "Do u want to upgrade your image? y/n \n")
+    select = input(Fore.MAGENTA + "Do u want to upscale image? y/n \n")
 
-    # upgrading png picture 768x768
+    # upgscaling png picture 768x768
     if select.lower() == "y":
         selectTwo = input(Fore.MAGENTA + "Would you like to use path or url?\n")
 
@@ -94,6 +94,6 @@ while True:
             choice = input(Fore.MAGENTA + "Do you have low ram? y/n\n")
             UpgradeImage(choice, url, 1)
         else:
-            print(Fore.RED,"You can enter only 'path' or 'url'")
+            print(Fore.RED + "You can enter only 'path' or 'url'")
     else:
         break
