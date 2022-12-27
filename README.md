@@ -8,3 +8,12 @@ Than enter:
 Program will launch and after first download you can start enjoying process          
         
 # Examples
+Request: ``` wild forest with beautiful nature with rain ```         
+``` before upscale ```
+
+<img src= https://github.com/ddoo5/SDG2/blob/examples/wildforestwithbeautifulnaturewithrain.png/>
+
+``` after upscale ```          
+Request: ``` rain forest grass ```
+
+<img src= https://github.com/ddoo5/SDG2/blob/examples/rain%20forest%20grass.png/>
