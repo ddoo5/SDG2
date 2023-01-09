@@ -62,6 +62,7 @@ def UpgradeImage(choice, url, type):
     prompt = input(Fore.MAGENTA + "Enter request: ")
 
     upscaled_image = pipeline(prompt=prompt, image=low_res_img).images[0]
+    prompt = prompt.replace(' ', '')
     upscaled_image.save(f"./{prompt}.png")
 
 
