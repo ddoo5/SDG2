@@ -4,24 +4,71 @@ This code based on 2 repositories. [Generating](https://huggingface.co/stability
 # How to launch?
 Download _main.py_ and open console on folder where you save it.                
 Than enter:           
-```> python3 main.py```       
+```bash
+> python3 main.py
+```       
+or       
+```bash
+> python3 sdg1-4.py
+```
 Program will launch and after first download you can start enjoying process          
         
-# Examples Stable diffusion 2
-``` wild forest with beautiful nature with rain ```         
+# Examples
+
+### Stable diffusion 2
+
+```
+wild forest with beautiful nature with rain
+```
+
 ``` before upscale ```
 
 <img src= https://github.com/ddoo5/SDG2/blob/examples/wildforestwithbeautifulnaturewithrain.png width="400px" height="400px"/> 
 
-``` rain forest grass ```      
+```
+rain forest grass
+```
+
 ``` after upscale ```        
 
 <img src= https://github.com/ddoo5/SDG2/blob/examples/rain%20forest%20grass.png width="400px" height="400px"/>
 
-``` sand mountains with snow ```          
+```
+sand mountains with snow
+```          
 
 <img src= https://github.com/ddoo5/SDG2/blob/examples/sandmountainswithsnow.png width="400px" height="400px"/>
 
-``` mountains with forest which going into the distance, with tropical rain in the summertime, 4k ```          
+```
+mountains with forest which going into the distance, with tropical rain in the summertime, 4k 
+```          
 
 <img src= https://github.com/ddoo5/SDG2/blob/examples/mountainswithforestwhichgoingintothedistance%2Cwithtropicalraininthesummertime%2C4k.png width="400px" height="400px"/>
+       
+       
+       
+### Stable diffusion 1.4
+
+```
+winter forest with river
+```          
+<img src= https://github.com/ddoo5/SDG2/blob/examples/winterforestwithriver.png width="400px" height="400px"/>
+
+
+```
+spring rain forest with mountains in impressionism style
+```          
+<img src= https://github.com/ddoo5/SDG2/blob/examples/springrainforestwithmountainsinimpressionismstyle.png width="400px" height="400px"/>
+
+
+```
+ship in the ocean, midnight, classicism style with mythological god
+```          
+<img src= https://github.com/ddoo5/SDG2/blob/examples/shipintheocean%2Cmidnight%2Cclassicismstylewithmythologicalgod.png width="400px" height="400px"/>
+
+
+```
+realistic winter forest with mountains and space
+```          
+<img src= https://github.com/ddoo5/SDG2/blob/examples/realisticwinterforestwithmountainsandspace.png width="400px" height="400px"/>
+
