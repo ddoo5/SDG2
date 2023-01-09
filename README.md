@@ -7,7 +7,7 @@ Than enter:
 ```> python3 main.py```       
 Program will launch and after first download you can start enjoying process          
         
-# Examples
+# Examples Stable diffusion 2
 ``` wild forest with beautiful nature with rain ```         
 ``` before upscale ```
 
